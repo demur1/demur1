@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @demur
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on RZTX
+Termux 🖤
+Xml 💙
+Python 🧡
